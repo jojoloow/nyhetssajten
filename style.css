@@ -1,0 +1,23 @@
+h1 {
+  color: blue;
+  font-size: 60px;
+  font-family: verdana;
+  text-shadow: 3px 1px darkgrey;
+}
+body {
+  background-color: grey;
+}
+.sidhuvud{
+  background-image: url("trump_eyes.jpg");
+  background-repeat: no-repeat;
+
+}
+.article-container{
+}
+.article-box{
+  background-color: lightgrey;
+  margin: 30px;
+}
+.article-box p {
+  color: black;
+}
